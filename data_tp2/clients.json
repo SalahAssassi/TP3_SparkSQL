@@ -1,0 +1,60 @@
+{"id_client": 1, "nom": "Ayoub Darif", "ville": "Casablanca", "date_inscription": "2024-01-17"}
+{"id_client": 2, "nom": "Youssef Benani", "ville": "Casablanca", "date_inscription": "2024-04-29"}
+{"id_client": 3, "nom": "Ayoub Alaoui", "ville": "Tanger", "date_inscription": "2024-10-14"}
+{"id_client": 4, "nom": "Meryem Darif", "ville": "Rabat", "date_inscription": "2024-04-22"}
+{"id_client": 5, "nom": "Ayoub Cherkaoui", "ville": "Marrakech", "date_inscription": "2024-01-04"}
+{"id_client": 6, "nom": "Khadija Cherkaoui", "ville": "Rabat", "date_inscription": "2024-05-22"}
+{"id_client": 7, "nom": "Omar Tazi", "ville": " RABAT ", "date_inscription": "2024-06-21"}
+{"id_client": 8, "nom": "Youssef Darif", "ville": "Casablanca", "date_inscription": "2024-02-19"}
+{"id_client": 9, "nom": "Hamza El Idrissi", "ville": "Fès", "date_inscription": "2024-05-15"}
+{"id_client": 10, "nom": "Anas El Idrissi", "ville": "Casablanca", "date_inscription": "2024-03-04"}
+{"id_client": 11, "nom": "Youssef El Idrissi", "ville": "Marrakech", "date_inscription": "2024-05-30"}
+{"id_client": 12, "nom": "Ayoub Tazi", "ville": "Agadir", "date_inscription": "2024-07-04"}
+{"id_client": 13, "nom": "Omar Fassi", "ville": "Tanger", "date_inscription": "2024-02-05"}
+{"id_client": 14, "nom": "Omar Tazi", "ville": " CASABLANCA ", "date_inscription": "2024-05-28"}
+{"id_client": 15, "nom": "Omar Tazi", "ville": "Casablanca", "date_inscription": "2024-02-21"}
+{"id_client": 16, "nom": "Salma Darif", "ville": "Marrakech", "date_inscription": "2024-11-21"}
+{"id_client": 17, "nom": "Imane Cherkaoui", "ville": "Fès", "date_inscription": "2024-06-30"}
+{"id_client": 18, "nom": "Salma Fassi", "ville": "Rabat", "date_inscription": "2024-12-15"}
+{"id_client": 19, "nom": "Youssef El Idrissi", "ville": "Agadir", "date_inscription": "2024-11-21"}
+{"id_client": 20, "nom": "Meryem Fassi", "ville": "Rabat", "date_inscription": "2024-05-05"}
+{"id_client": 21, "nom": "Anas Darif", "ville": " RABAT ", "date_inscription": "2024-05-18"}
+{"id_client": 22, "nom": "Meryem Benani", "ville": "Agadir", "date_inscription": "2024-12-16"}
+{"id_client": 23, "nom": "Sara Benani", "ville": "Fès", "date_inscription": "2024-01-17"}
+{"id_client": 24, "nom": "Khadija Cherkaoui", "ville": "Fès", "date_inscription": "2024-02-03"}
+{"id_client": 25, "nom": "Ayoub Fassi", "ville": "Rabat", "date_inscription": "2024-06-10"}
+{"id_client": 26, "nom": "Anas Darif", "ville": "Rabat", "date_inscription": "2024-11-25"}
+{"id_client": 27, "nom": "Imane Cherkaoui", "ville": "Marrakech", "date_inscription": "2024-03-12"}
+{"id_client": 28, "nom": "Meryem El Idrissi", "ville": " RABAT ", "date_inscription": "2024-05-14"}
+{"id_client": 29, "nom": "Ayoub Darif", "ville": "Agadir", "date_inscription": "2024-10-25"}
+{"id_client": 30, "nom": "Hamza Benani", "ville": "Marrakech", "date_inscription": "2024-03-11"}
+{"id_client": 31, "nom": "Anas Alaoui", "ville": "Tanger", "date_inscription": "2024-01-25"}
+{"id_client": 32, "nom": "Imane Fassi", "ville": "Casablanca", "date_inscription": "2024-03-22"}
+{"id_client": 33, "nom": "Khadija El Idrissi", "ville": "Agadir", "date_inscription": "2024-02-02"}
+{"id_client": 34, "nom": "Khadija El Idrissi", "ville": "Marrakech", "date_inscription": "2024-08-27"}
+{"id_client": 35, "nom": "Salma El Idrissi", "ville": " TANGER ", "date_inscription": "2024-01-06"}
+{"id_client": 36, "nom": "Youssef Fassi", "ville": "Agadir", "date_inscription": "2024-10-01"}
+{"id_client": 37, "nom": "Hamza Alaoui", "ville": "Fès", "date_inscription": "2024-05-30"}
+{"id_client": 38, "nom": "Imane Darif", "ville": "Marrakech", "date_inscription": "2024-01-02"}
+{"id_client": 39, "nom": "Salma El Idrissi", "ville": "Agadir", "date_inscription": "2024-04-01"}
+{"id_client": 40, "nom": "Youssef Tazi", "ville": "Tanger", "date_inscription": "2024-11-16"}
+{"id_client": 41, "nom": "Meryem El Idrissi", "ville": "Fès", "date_inscription": "2024-04-11"}
+{"id_client": 42, "nom": "Hamza Tazi", "ville": " RABAT ", "date_inscription": "2024-03-23"}
+{"id_client": 43, "nom": "Meryem Alaoui", "ville": "Tanger", "date_inscription": "2024-11-02"}
+{"id_client": 44, "nom": "Anas Alaoui", "ville": "Fès", "date_inscription": "2024-02-27"}
+{"id_client": 45, "nom": "Salma Benani", "ville": "Fès", "date_inscription": "2024-01-30"}
+{"id_client": 46, "nom": "Ayoub Alaoui", "ville": "Rabat", "date_inscription": "2024-02-13"}
+{"id_client": 47, "nom": "Anas Tazi", "ville": "Agadir", "date_inscription": "2024-02-05"}
+{"id_client": 48, "nom": "Imane Benani", "ville": "Tanger", "date_inscription": "2024-12-03"}
+{"id_client": 49, "nom": "Meryem Benani", "ville": " MARRAKECH ", "date_inscription": "2024-05-15"}
+{"id_client": 50, "nom": "Ayoub Darif", "ville": "Tanger", "date_inscription": "2024-04-18"}
+{"id_client": 51, "nom": "Omar Fassi", "ville": "Tanger", "date_inscription": "2024-06-08"}
+{"id_client": 52, "nom": "Hamza Darif", "ville": "Marrakech", "date_inscription": "2024-09-21"}
+{"id_client": 53, "nom": "Youssef Benani", "ville": "Marrakech", "date_inscription": "2024-04-25"}
+{"id_client": 54, "nom": "Hamza Alaoui", "ville": "Casablanca", "date_inscription": "2024-10-28"}
+{"id_client": 55, "nom": "Omar El Idrissi", "ville": "Tanger", "date_inscription": "2024-04-22"}
+{"id_client": 56, "nom": "Youssef Fassi", "ville": " CASABLANCA ", "date_inscription": "2024-11-19"}
+{"id_client": 57, "nom": "Omar Alaoui", "ville": "Casablanca", "date_inscription": "2024-01-17"}
+{"id_client": 58, "nom": "Youssef El Idrissi", "ville": "Fès", "date_inscription": "2024-05-01"}
+{"id_client": 59, "nom": "Anas Benani", "ville": "Fès", "date_inscription": "2024-10-03"}
+{"id_client": 60, "nom": "Ayoub El Idrissi", "ville": "Rabat", "date_inscription": "2024-08-30"}

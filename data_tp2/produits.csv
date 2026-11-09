@@ -1,0 +1,14 @@
+id_produit,nom,categorie,prix
+1,Clavier,Informatique,399
+2,Souris,Informatique,49
+3,Ecran,Informatique,49
+4,Casque,Informatique,N/A
+5,Webcam,Informatique,99
+6,Lampe,Maison,79
+7,Chaise,Maison,79
+8,Bureau,Maison,79
+9,Etagere,Maison,399
+10,Ballon,Sport,49
+11,Raquette,Sport,399
+12,Tapis de yoga,Sport,399
+13,Haltères,Sport,249
